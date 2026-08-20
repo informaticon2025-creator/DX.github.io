@@ -1,0 +1,17 @@
+[TITULO]
+Ventoy
+
+[AUTOR]
+Hailong Sun
+
+[IMGS]
+https://www.ventoy.net/static/img/ventoy.png?v=1
+
+[DESCRIPCION]
+Convierte una memoria USB en un disco de arranque múltiple. Solo necesitas instalarlo una vez en el lápiz de memoria y luego copiar archivos de imagen (como ISO, WIM o IMG) directamente a la unidad. Al encender la PC con el USB, verás un menú para elegir qué sistema o herramienta arrancar sin tener que volver a formatear.
+
+[CATEGORIA]
+Programa
+
+[ARCHIVOPDF]
+https://sourceforge.net/projects/ventoy/files/v1.1.17/ventoy-1.1.17-windows.zip/download
