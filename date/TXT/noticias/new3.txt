@@ -1,0 +1,14 @@
+[TITULO]
+Anthropic dice que tiene un nuevo modelo de IA teóricamente superior en todo a Mythos 5
+
+[FECHA]
+17 Agosto 2026
+
+[CATEGORIA]
+IA
+
+[IMAGEN]
+https://i.blogs.es/ecb3a4/anthropic/1200_800.jpeg
+
+[RESUMEN]
+Anthropic tiene disponible un modelo de IA que no podemos probar. Se llama simplemente "Model 2", es aún más potente que Mythos 5 y, según la propia compañía, ofrece una "mejora apreciable" en muchas de las tareas que realizan internamente. No es un salto tan grande como el que hubo al lanzar Mythos Preview, pero para los responsables del mismo el modelo es demasiado potente para lanzarlo públicamente. Si esa historia os suena, es porque os tenía que sonar.
