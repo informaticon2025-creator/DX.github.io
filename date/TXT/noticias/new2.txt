@@ -1,18 +1,16 @@
 [TITULO]
-prueba
+Ubuntu crece más rápido en Windows que en Linux ¿Gana Microsoft?
 
 [FECHA]
-31/07/2026
+18/08/2026
 
 [CATEGORIA]
-Sin daños
+Sistemas Operativos
 
 [IMAGEN]
-https://informaticon2025-creator.github.io/DX.github.io/favicon.ico
+https://www.muylinux.com/wp-content/uploads/2026/08/Ubuntu-crece-mas-rapido-en-Windows-que-en-Linux.jpg
 
 [RESUMEN]
-OpenAI comenzó a ofrecer chats de texto ilimitados para usuarios gratuitos de ChatGPT, permitiendo mantener conversaciones normales sin el límite anterior.
+El uso de Ubuntu a través del Subsistema de Windows para Linux está creciendo más rápido que su base de usuarios nativos de escritorio. Un ejecutivo de Canonical afirma que el número de usuarios de WSL podrían superar pronto a quienes utilizan Ubuntu como su sistema operativo principal.
 
-Eso sí, la medida no significa acceso ilimitado a todas las funciones. Las cargas de archivos, generación de imágenes y otras herramientas pueden seguir teniendo restricciones.
-
-El cambio representa una modificación importante para quienes utilizan ChatGPT gratis y podría hacer que el servicio sea mucho más práctico para el uso diario.
+La predicción proviene de Jon Seager, vicepresidente de Ingeniería de Canonical, la empresa desarrolladora de Ubuntu. La cita -no tan sorprendente- la ha traído a la luz Windows Latest tras revisar una entrevista publicada en The Pragmatic Engineer hace unos meses. Y no tiene desperdicio: «Espero ver más usuarios de Ubuntu WSL que usuarios de Ubuntu ‘nativo’ en los próximos meses», aseguraba el ingeniero de Canonical.
