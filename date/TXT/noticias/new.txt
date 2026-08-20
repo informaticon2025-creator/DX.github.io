@@ -1,0 +1,17 @@
+[TITULO]
+ChatGPT acaba de eliminar un límite que muchos usuarios odiaban 😮
+
+[FECHA]
+31/07/2026
+
+[CATEGORIA]
+IA
+
+[IMAGEN]
+https://scontent-mia3-2.xx.fbcdn.net/v/t39.99422-6/769051736_1710289033558057_686135601609322853_n.png?stp=dst-jpg_tt6&cstp=mx1440x1800&ctp=s1440x1800&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_dfQmiMPGHIQ7kNvwEpsF5K&_nc_oc=AdpiEnhQSaA3JAdF4uz_RJrvA4G0b_O-8I6C1OcS43NU7103mYZ0REmWsyEZfl0IwTw&_nc_zt=14&_nc_ht=scontent-mia3-2.xx&_nc_gid=jC8DPSxJz3xrzgIrxYGDkA&_nc_ss=7b2a8&oh=00_AQE-bUHNLaEsjXA5KG3NgXzPkBezC1L_RoA6jdtZTNNblQ&oe=6A8C2F59
+[RESUMEN]
+OpenAI comenzó a ofrecer chats de texto ilimitados para usuarios gratuitos de ChatGPT, permitiendo mantener conversaciones normales sin el límite anterior.
+
+Eso sí, la medida no significa acceso ilimitado a todas las funciones. Las cargas de archivos, generación de imágenes y otras herramientas pueden seguir teniendo restricciones.
+
+El cambio representa una modificación importante para quienes utilizan ChatGPT gratis y podría hacer que el servicio sea mucho más práctico para el uso diario.

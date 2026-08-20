@@ -1,0 +1,17 @@
+[TITULO]
+Xampp
+
+[AUTOR]
+Apache Friends
+
+[IMGS]
+https://www.apachefriends.org/images/xampp-logo-ac950edf.svg
+
+[DESCRIPCION]
+XAMPP es una distribución de Apache completamente gratuita y fácil de instalar que contiene MariaDB, PHP y Perl. El paquete de instalación de XAMPP ha sido diseñado para ser increíblemente fácil de instalar y usar.
+
+[CATEGORIA]
+Programa
+
+[ARCHIVOPDF]
+https://mega.nz/file/B7VGXIJY#KGswhWKNrlBy4c62CT9_zhNB0Mmm9EqsPnxlzbEUDJ4

@@ -1,0 +1,17 @@
+[TITULO]
+Fl Studio
+
+[AUTOR]
+Image-Line Software
+
+[IMGS]
+https://tse2.mm.bing.net/th/id/OIP.hfyg3GDU1uKVG4PlI6DJ6AAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3
+
+[DESCRIPCION]
+FL STUDIO de 64bit, version 21, es un estudio de producción musical virtual que sirve para componer, grabar, mezclar y masterizar canciones desde la computadora.
+
+[CATEGORIA]
+Programa
+
+[ARCHIVOPDF]
+https://mega.nz/file/AyNzBQqZ#xiTgiVjnKwrDGmcbpxOmWIrIlTvHcVy8BX2kwqTiXHE

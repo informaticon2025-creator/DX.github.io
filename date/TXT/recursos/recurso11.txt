@@ -1,0 +1,17 @@
+[TITULO]
+Rufus
+
+[AUTOR]
+Pete Batard
+
+[IMGS]
+https://www.ubackup.com/screenshot/en/others2/rufus/rufus.png
+
+[DESCRIPCION]
+Rufus es una aplicación gratuita para Windows que sirve para crear unidades flash USB de arranque, como pendrives autoarrancables.
+
+[CATEGORIA]
+Programa
+
+[ARCHIVOPDF]
+https://mega.nz/file/8m0xFKYZ#8ZXQKcbdwnVo_VwCsnofJSLqn5h01MCaYliFMyp9trc

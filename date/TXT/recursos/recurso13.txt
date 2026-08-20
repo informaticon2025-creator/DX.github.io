@@ -1,0 +1,17 @@
+[TITULO]
+Firefox
+
+[AUTOR]
+David Hyatt y Blake Ross
+
+[IMGS]
+https://external-preview.redd.it/mozilla-just-fixed-an-18-year-old-firefox-bug-v0-sBRrIi4bYfT7v148wCOdxryRuuQ2zxv5_ttrc3aZ95Q.jpg?auto=webp&s=3e11a90829423b69a14dbf5b59bfa69d17f8e3a4
+
+[DESCRIPCION]
+Mozilla Firefox es un navegador web desarrollado por la Fundación Mozilla, disponible para múltiples plataformas como Windows, macOS, Linux, Android e iOS 
+. Su función principal es permitir a los usuarios navegar por la web, acceder a páginas, buscar información y utilizar servicios en línea de forma eficiente
+[CATEGORIA]
+Navegador
+
+[ARCHIVOPDF]
+https://www.firefox.com/es-ES/thanks/

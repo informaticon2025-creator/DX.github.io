@@ -1,0 +1,17 @@
+[TITULO]
+MiniOS
+
+[AUTOR]
+DProjects
+
+[IMGS]
+https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQwe6s_Kbv65SOo3JTJX9kWfud9si8Y7JelFWifzU-FJdEKcgL07tY91hMFgssELXHbjX74rHFe5XApYgBKpkaPjcKp6utgqHC2ppfi7aFWBZQNsaui1x-eV71a7Ua0YoSAAIt9asPS-4gSUX7CQgyYtKrDQxOYPlQoJnP4CCKJDSWV-d5bmrHMv8MOk4/w200-h186/logotipo.png
+
+[DESCRIPCION]
+MiniOS es un sistema operativo ligero y optimizado, diseñado para funcionar en dispositivos con recursos limitados.
+
+[CATEGORIA]
+Sistema Operativo
+
+[ARCHIVOPDF]
+https://mega.nz/file/lrc2GZyb#BtyNg91nRXvlCQiiIUYbYkiwwWpd9MShmLOTys8go_k

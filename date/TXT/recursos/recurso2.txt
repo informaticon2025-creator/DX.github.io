@@ -1,0 +1,17 @@
+[TITULO]
+Window 10 pro
+
+[AUTOR]
+Microsoft
+
+[IMGS]
+https://www.azioonline.com/wp-content/uploads/2022/01/W10.png
+
+[DESCRIPCION]
+Windows 10 es un sistema operativo desarrollado por Microsoft, diseñado para ofrecer una experiencia segura.
+
+[CATEGORIA]
+Sistema Operativo
+
+[ARCHIVOPDF]
+https://itq.edu.ec/wp-content/uploads/2024/12/Dominando-React-una-guia-introductoria-para-desarrolladores.pdf

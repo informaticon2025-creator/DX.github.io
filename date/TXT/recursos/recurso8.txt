@@ -1,0 +1,17 @@
+[TITULO]
+VLC Media Player
+
+[AUTOR]
+Jean-Baptiste Kempf 
+
+[IMGS]
+https://vidabytes.com/wp-content/uploads/2021/09/Como-usar-VLC-Media-Player-1.jpg
+
+[DESCRIPCION]
+VLC Media Player de 64bit, VLC media player es un reproductor y framework multimedia, libre y de código abierto desarrollado por el proyecto VideoLAN.
+
+[CATEGORIA]
+Programa
+
+[ARCHIVOPDF]
+https://mega.nz/file/Qz1CjIiD#px-_nvnxvNSZV8U-IG0rp45K4phvfmc07y-I2RavKMI

@@ -1,0 +1,17 @@
+[TITULO]
+VS Code
+
+[AUTOR]
+Erich Gamma y su equipo en Zurich 
+
+[IMGS]
+https://visualstudio.microsoft.com/wp-content/uploads/2022/09/VisualStudioCode.svg
+
+[DESCRIPCION]
+Visual Studio Code es un editor de código fuente desarrollado por Microsoft. Es un editor ligero pero potente con soporte para múltiples lenguajes de programación.
+
+[CATEGORIA]
+Programa
+
+[ARCHIVOPDF]
+https://mega.nz/file/M6lyFJTJ#Gl-LpPExSqdg0K87bbIx25iXEfPE4KBf15mcPRYvRg0

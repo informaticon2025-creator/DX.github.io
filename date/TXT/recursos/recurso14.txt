@@ -1,0 +1,16 @@
+[TITULO]
+Sublime Text
+
+[AUTOR]
+Jon Skinner
+
+[IMGS]
+https://www.sublimehq.com/images/sublime_text.png
+
+[DESCRIPCION]
+Sublime Text es un sofisticado editor de texto multiplataforma diseñado para trabajar con código fuente, marcado (markup) y prosa. Su desarrollo comenzó en 2008 bajo la autoría de Jon Skinner, con el objetivo de ofrecer un entorno de edición limpio, rápido y eficiente que heredara la potencia de Vim pero con una interfaz más amigable y moderna.
+[CATEGORIA]
+Programa
+
+[ARCHIVOPDF]
+https://www.sublimetext.com/

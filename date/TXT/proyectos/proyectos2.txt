@@ -1,0 +1,11 @@
+[NOMBRE]
+Office word
+
+[DESCRIPCION]
+aprender a usar herramientas Office de microsoft
+
+[TECNOLOGIAS]
+OFIMÁTICA
+
+[LINKDEMO]
+https://factorclave.cl/wp-content/uploads/2024/05/MANUAL-DE-WORD-BASICO_V02-CLAUDIO.pdf

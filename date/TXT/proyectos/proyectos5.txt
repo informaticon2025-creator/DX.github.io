@@ -1,0 +1,11 @@
+[NOMBRE]
+Manual basico Window 10
+
+[DESCRIPCION]
+aprender a usar el sistema operstivo win 10 de microsoft
+
+[TECNOLOGIAS]
+System operative
+
+[LINKDEMO]
+https://drive.google.com/file/d/0Bx0Ehu4EXV2JMHlPN25iMVRwVWs/view?resourcekey=0-VYQrxdORVh5ORhKkOruEUA

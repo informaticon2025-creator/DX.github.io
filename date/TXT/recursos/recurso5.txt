@@ -1,0 +1,17 @@
+[TITULO]
+DJ virtual
+
+[AUTOR]
+Atomix Productions
+
+[IMGS]
+https://th.bing.com/th/id/R.f86765cddea861e34feab414fc09f4ac?rik=xNuOH757ZVeUTA&pid=ImgRaw&r=0
+
+[DESCRIPCION]
+VirtualDJ es un software que transforma la computadora en una consola de mezclas para DJ. Sirve para reproducir y mezclar dos o más canciones al mismo tiempo y permitiendo hacer transiciones.
+
+[CATEGORIA]
+Programa
+
+[ARCHIVOPDF]
+https://mega.nz/file/VyVywJIK#dvo71JtGKxGHzkhoXndcGXVHy11-0wsLlxHPqI2LyLY

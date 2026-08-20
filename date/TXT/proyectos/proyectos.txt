@@ -1,0 +1,14 @@
+[NOMBRE]
+COMPUTACIÓN BÁSICA
+
+[DESCRIPCION]
+La siguiente guía está preparada por el instructor del curso con el 
+objetivo que te sirva como medio de estudio para la acreditación 
+del examen. Si la estudias, tendrás un 95% de posibilidad de 
+acreditar el examen.
+
+[TECNOLOGIAS]
+Basico
+
+[LINKDEMO]
+https://capacitaciondigital.mx/capdigmx/videocursos/guias/c7b58dGUIA%20DE%20ESTUDIO-COMPUTACION-BASICA.pdf

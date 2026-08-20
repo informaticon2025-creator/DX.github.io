@@ -1,0 +1,12 @@
+[NOMBRE]
+Office powerPoint
+
+[DESCRIPCION]
+aprender a usar herramientas Office de microsoft
+
+[TECNOLOGIAS]
+OFIMÁTICA
+
+[LINKDEMO]
+https://drive.google.com/file/d/1-S8arfrhJRKXtdX608N7f-I1uG8MTgu5/view
+

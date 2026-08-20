@@ -1,0 +1,17 @@
+[TITULO]
+Ubuntu
+
+[AUTOR]
+Mark Shuttleworth
+
+[IMGS]
+https://logos-world.net/wp-content/uploads/2022/04/Ubuntu-New-Logo-700x394.png
+
+[DESCRIPCION]
+Este sistema operativo de AMD 64-bit architecture.
+
+[CATEGORIA]
+Sistema Operativo
+
+[ARCHIVOPDF]
+https://ubuntu.com/download/desktop/thank-you?version=26.04&architecture=amd64&lts=true

@@ -1,0 +1,17 @@
+[TITULO]
+AIMP
+
+[AUTOR]
+Artem Izmaylov
+
+[IMGS]
+http://aimp.ru/v2/theme/images/header-logo.svg
+
+[DESCRIPCION]
+AIMP es un reproductor de audio gratuito y potente para Windows y Android, diseñado para reproducir, organizar y personalizar la música de manera eficiente.
+
+[CATEGORIA]
+Programa
+
+[ARCHIVOPDF]
+http://aimp.ru/

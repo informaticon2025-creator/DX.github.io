@@ -1,0 +1,17 @@
+[TITULO]
+PPSSPP
+
+[AUTOR]
+Henrik Rydgård
+
+[IMGS]
+https://tse2.mm.bing.net/th/id/OIP.hm3NQC79kd8xTTIrbYwbEQHaLH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3
+
+[DESCRIPCION]
+PPSSPP es un software de código abierto diseñado para emular la consola portátil PSP, lo que significa que puede ejecutar juegos de PSP en plataformas distintas a la consola original.
+
+[CATEGORIA]
+Programa
+
+[ARCHIVOPDF]
+https://www.ppsspp.org/download/

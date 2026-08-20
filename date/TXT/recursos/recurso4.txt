@@ -1,0 +1,17 @@
+[TITULO]
+Kali Linux
+
+[AUTOR]
+Mati Aharoni y Devon Kearns
+
+[IMGS]
+https://tse4.mm.bing.net/th/id/OIP.dPaiXxG6pFZ6QgQAQEO-cgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3
+
+[DESCRIPCION]
+Kali Linux es una distribución de Linux basada en Debian diseñada específicamente para la seguridad informática y el hacking ético.
+
+[CATEGORIA]
+Sistema Operativo
+
+[ARCHIVOPDF]
+https://itq.edu.ec/wp-content/uploads/2024/12/Dominando-React-una-guia-introductoria-para-desarrolladores.pdf

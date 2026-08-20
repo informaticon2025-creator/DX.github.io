@@ -1,0 +1,11 @@
+[NOMBRE]
+Office Excel
+
+[DESCRIPCION]
+aprender a usar herramientas Office de microsoft
+
+[TECNOLOGIAS]
+OFIMÁTICA
+
+[LINKDEMO]
+https://tipsdeexcel.com/wp-content/uploads/2022/03/Guia-Excel-Basico-2022.pdf
