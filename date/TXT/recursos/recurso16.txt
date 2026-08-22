@@ -1,0 +1,20 @@
+[TITULO]
+IntelliJ IDEA
+
+[AUTOR]
+JetBrains
+
+[IMGS]
+https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0
+
+[DESCRIPCION]
+es ahora un solo producto unificado.
+Las funcionalidades principales de Java y Kotlin siguen siendo gratuitas, y ahora se ofrecen más funciones sin coste alguno. Cuando necesite herramientas avanzadas, solo tiene que adquirirlas con una suscripción Ultimate, sin cambiar de edición ni configuraciones adicionales.
+
+Los usuarios existentes de la versión Ultimate mantendrán el acceso total a todas las funcionalidades avanzadas.
+
+[CATEGORIA]
+Programa
+
+[ARCHIVOPDF]
+https://www.jetbrains.com/es-es/idea/download/?section=windows
