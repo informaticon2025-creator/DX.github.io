@@ -1,0 +1,17 @@
+[TITULO]
+magistv_celular_v5.13.6
+
+[AUTOR]
+Juan Diego y José Daniel Santacruz Benavides
+
+[IMGS]
+https://miescapedigital.com/wp-content/uploads/2024/06/magis-tv-800x445.webp
+
+[DESCRIPCION]
+Magis TV es una aplicación de streaming que permite a los usuarios acceder a una variedad de contenido, incluyendo películas, series y canales de televisión, de forma gratuita. 
+
+[CATEGORIA]
+Movil APK
+
+[ARCHIVOPDF]
+https://mega.nz/file/RqVjmT6T#jeHFPfcRoRHWbDhym0M2_TtFso0evv7T_Hl16km2hOw
