@@ -1,0 +1,14 @@
+[TITULO]
+He dejado a ChatGPT leer mis mensajes y el proceso asusta un poco
+
+[FECHA]
+21 Agosto 2026
+
+[CATEGORIA]
+IA
+
+[IMAGEN]
+https://i.blogs.es/de6793/chatpgt-mensajes/840_560.webp
+
+[RESUMEN]
+ChatGPT ya puede controlar iMessage en tu Mac. Es más o menos lo mismo que ya hace Siri AI, pero con esteroides: leer, escribir y enviar mensajes, buscar conversaciones, sacar resúmenes de lo que has hablado con cada persona. Apple, sin embargo, probablemente vea esto como justo lo contrario de lo que lleva años prometiendo sobre la privacidad de su mensajería.
