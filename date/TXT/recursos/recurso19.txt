@@ -1,0 +1,17 @@
+[TITULO]
+CreateMinut
+
+[AUTOR]
+Denis Romero
+
+[IMGS]
+https://create-minut-github-io.vercel.app/icon.png
+
+[DESCRIPCION]
+Esta Herramienta esta diseñada para fines de gestion en el ambito profecional una apk para tu facilidad administrativa 
+
+[CATEGORIA]
+APK movil
+
+[ARCHIVOPDF]
+https://mega.nz/file/86lBHJia#zG-FtkHYJg0UxF5yrJXVWKAwPovVXEh1Y97wgsWFlWs
