@@ -1,0 +1,17 @@
+[TITULO]
+NotePad Versiones
+
+[AUTOR]
+Don Ho
+
+[IMGS]
+https://notepad-plus-plus.org/images/logo.svg
+
+[DESCRIPCION]
+Notepad++ es un editor de código fuente gratuito (como en "libre expresión" y también en "cerveza gratis") y sustituto de Notepad que soporta varios lenguajes de programación. Ejecutándose en el entorno MS Windows, su uso está regulado por la Licencia Pública General GNU.
+
+[CATEGORIA]
+Programa
+
+[ARCHIVOPDF]
+https://notepad-plus-plus.org/downloads/
