@@ -3,10 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DX Tecnologia</title>
+    <title>DX Tecnologia - Términos y Funciones</title>
     <link rel="stylesheet" href="../dgn/global.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <meta name="description" content="DXon: Lo último en noticias tecnológicas y el mejor ecosistema de recursos. Descarga ISOs, programas EXE y libros listos para desarrolladores.">    <meta name="robots" content="index, follow">
+    <meta name="description" content="DXon: Lo último en noticias tecnológicas y el mejor ecosistema de recursos. Descarga ISOs, programas EXE y libros listos para desarrolladores.">
+    <meta name="robots" content="index, follow">
     <meta property="og:type" content="website">
     <meta property="og:title" content="DXon - Noticias de Tecnología y Recursos Dev">
     <meta property="og:description" content="Descarga ISOs, programas EXE y libros de código.">
@@ -16,39 +17,205 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="icon" href="./file/favicon.svg" type="image/svg">
     <style>
-        body{
+        :root {
+            --bg-color: #233;
+            --card-bg: rgba(255, 255, 255, 0.05);
+            --border-color: rgba(255, 255, 255, 0.15);
+            --text-primary: #ffffff;
+            --text-secondary: #e2e8f0;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        html, body {
+            height: 100%;
+            overflow: hidden;
+            background-color: var(--bg-color);
             font-family: Arial, Helvetica, sans-serif;
+            color: var(--text-primary);
         }
 
-        li{
-            margin: 3em 2em;
-            padding: 1em;
-        }
-
-        div{
+        body {
             display: flex;
             justify-content: center;
             align-items: center;
-            flex-direction: column;
-            position: absolute;
+            padding: 1rem;
+            line-height: 1.6;
+        }
+
+        /* Contenedor principal con posición relativa para el botón X */
+        .container {
+            position: relative;
             width: 100%;
-            height: 100%;
-            overflow: auto;
+            max-width: 680px;
+            height: 85vh;
+            background: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 2rem;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+        }
+
+        /* Botón X de salir a index.html */
+        .close-btn {
+            position: absolute;
+            top: 1rem;
+            right: 1.2rem;
+            width: 2rem;
+            height: 2rem;
+            background: rgba(255, 255, 255, 0.1);
+            color: var(--text-primary);
+            border: 1px solid var(--border-color);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            font-size: 1.1rem;
+            font-weight: bold;
+            transition: background 0.2s ease, transform 0.2s ease;
+            z-index: 10;
+        }
+
+        .close-btn:hover {
+            background: rgba(255, 0, 0, 0.6);
+            border-color: rgba(255, 0, 0, 0.8);
+            transform: scale(1.1);
+        }
+
+        /* Header e imagen fuera del scroll */
+        .header-fixed {
+            flex-shrink: 0;
+            margin-bottom: 1rem;
+        }
+
+        .logo-wrapper img {
+            width: 150px;
+            height: auto;
+            margin-bottom: 0.5rem;
+        }
+
+        h1 {
+            font-size: 1.8rem;
+        }
+
+        /* Área interna con scroll exclusivo para las reglas/términos */
+        .scroll-content {
+            flex: 1;
+            overflow-y: auto;
+            margin: 1rem 0;
+            background: rgba(0, 0, 0, 0.2);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 1rem;
+        }
+
+        /* Estilo personalizado de la barra de scroll */
+        .scroll-content::-webkit-scrollbar {
+            width: 6px;
+        }
+        .scroll-content::-webkit-scrollbar-thumb {
+            background: rgba(255, 255, 255, 0.25);
+            border-radius: 4px;
+        }
+        .scroll-content::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        .content-list {
+            text-align: left;
+            list-style: none;
+            counter-reset: custom-counter;
+            display: flex;
+            flex-direction: column;
+            gap: 1.2rem;
+        }
+
+        .content-list li {
+            position: relative;
+            padding: 0.8rem 0.8rem 0.8rem 2.8rem;
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            counter-increment: custom-counter;
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+        }
+
+        .content-list li::before {
+            content: counter(custom-counter);
+            position: absolute;
+            left: 0.8rem;
+            top: 0.8rem;
+            width: 1.4rem;
+            height: 1.4rem;
+            background: rgba(255, 255, 255, 0.2);
+            color: var(--text-primary);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.85rem;
+            font-weight: bold;
+        }
+
+        .warning-text {
+            color: #f87171;
+            font-weight: bold;
+        }
+
+        /* Footer fuera del scroll */
+        footer {
+            flex-shrink: 0;
+            padding-top: 1rem;
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+
+        footer strong {
+            color: var(--text-primary);
         }
     </style>
 </head>
 <body>
-    <div>
-        <br><br><br>
-        <h1>Motivo de la Page</h1>
-            <img src="../favicon.ico" width="150px" alt="icon">
+    <main class="container">
+        <!-- Botón para regresar a la página principal -->
+        <a href="../index.html" class="close-btn" title="Cerrar y volver al inicio">&times;</a>
 
-        <ol>
-            <li>DXon se compromete formalmente con su comunidad de usuarios a garantizar un entorno digital seguro, optimizado y de alto valor técnico. Quienes acceden y utilizan este sitio web obtienen de manera directa y gratuita un conjunto de prerrogativas y herramientas diseñadas con los más altos estándares informáticos:</li>
-            <li>Acceso a ISOs de sistemas operativos, programas EXE y libros de código fuente, todos ellos cuidadosamente seleccionados para satisfacer las necesidades de desarrolladores y entusiastas de la tecnología.</li>
-        </ol>
-
-        <p>Derechos del autor <strong>DXon</strong></p>
+        <!-- Logo y título fijos -->
+        <div class="header-fixed">
+            <div class="logo-wrapper">
+                <img src="../favicon.ico" alt="icon">
+            </div>
+            <h1>Términos y Condiciones de Uso</h1>
         </div>
+
+        <!-- SOLO ESTA CAJA TIENE SCROLL -->
+        <div class="scroll-content">
+            <ol class="content-list">
+                <li>
+                    <strong>Propósito de la plataforma:</strong> DXon es un entorno digital destinado a la divulgación de información, recursos educativos y herramientas tecnológicas. Su objetivo es mantener a la comunidad actualizada en áreas de ingeniería de software, arquitectura de hardware, robótica, ofimática y ciencias de la computación. Algunos repositorios y recursos operan mediante redirecciones a servidores y canales de terceros.
+                </li>
+                <li>
+                    <strong>Arquitectura y Seguridad:</strong> El desarrollo e implementación de DXon comprende una arquitectura donde el 46% del código base y la generación de contenido han sido optimizados mediante modelos de Inteligencia Artificial. El 54% restante es producto del análisis cognitivo, supervisión y desarrollo manual por parte de nuestros ingenieros. La plataforma opera bajo estrictos protocolos de seguridad, garantizando un entorno 100% libre de código malicioso (malware) y se distribuye con fines informativos y de desarrollo.
+                </li>
+                <li>
+                    <span class="warning-text">EXENCIÓN DE RESPONSABILIDAD:</span> La administración de DXon no asume responsabilidad legal o técnica por el uso indebido de los binarios, scripts o recursos aquí proporcionados. La plataforma se despliega como un sitio estático para acceso público; por ende, la integridad del entorno de ejecución local, la compatibilidad del software y la gestión de los archivos descargados recaen bajo la exclusiva y absoluta responsabilidad del usuario final.
+                </li>
+            </ol>
+        </div>
+
+        <!-- Footer fijo -->
+        <footer>
+            <p>Derechos de autor &copy; <strong>DXon</strong>. Todos los derechos reservados.</p>
+        </footer>
+    </main>
 </body>
 </html>
