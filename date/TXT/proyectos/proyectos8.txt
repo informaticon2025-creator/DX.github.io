@@ -1,0 +1,20 @@
+[NOMBRE]
+POO usando JAVA
+
+[DESCRIPCION]
+un lenguaje de programación destinado a electrodomésticos.
+Debido a la existencia de distintos tipos de procesadores y a
+los continuos cambios, se generó la necesidad de hacer una
+herramienta independiente de la clase de procesador. Entonces,
+Sun Microsystems creó una aplicación neutra que no dependía del
+tipo de electrodoméstico. Esta aplicación se ejecutaba a través de
+una máquina hipotética o virtual denominada “Java Virtual Machine,
+JVM” o máquina virtual de Java. La JVM interpretaba el código neutro
+convirtiéndolo a código ensamblador que podía ser interpretado por
+el procesador utilizado.
+
+[TECNOLOGIAS]
+Modelados del Software
+
+[LINKDEMO]
+https://drive.google.com/file/d/1O5A-TUunDtYP7B7J_HBeLrjhrKLE3Jt5/view

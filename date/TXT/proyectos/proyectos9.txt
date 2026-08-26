@@ -1,0 +1,11 @@
+[NOMBRE]
+Curso: Python para Principiantes
+
+[DESCRIPCION]
+Sin descripcion avalada
+
+[TECNOLOGIAS]
+Programacion
+
+[LINKDEMO]
+https://drive.google.com/file/d/1JX4lj1Ko3n8cp1BmJGExsINCaO2QsbkS/view
