@@ -1,0 +1,12 @@
+[NOMBRE]
+TypeScript
+
+[DESCRIPCION]
+TypeScript, un superconjunto tipado para JavaScript 
+que compila en JavaScript plano.  
+
+[TECNOLOGIAS]
+Programacion
+
+[LINKDEMO]
+https://elhacker.info/manuales/Lenguajes%20de%20Programacion/Typescript/TypeScript%20para%20Principiantes.pdf
