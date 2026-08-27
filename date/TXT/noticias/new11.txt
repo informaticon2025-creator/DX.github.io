@@ -1,0 +1,14 @@
+[TITULO]
+Xbox acaba de implementar una de sus mejores ideas en años y podría darle una patada bastante seria a PlayStation.
+
+[FECHA]
+27 Agosto 2026
+
+[CATEGORIA]
+Gamers
+
+[IMAGEN]
+https://scontent-mia5-1.xx.fbcdn.net/v/t39.99422-6/786579967_1459562192665486_1243997843132198932_n.png?stp=dst-jpg_tt6&cstp=mx1024x1280&ctp=s1024x1280&_nc_cat=1&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vibSD6hGGeIQ7kNvwFnWEMA&_nc_oc=AdrzmmC5XsYpuOGl1xbgwRMnaDyEZui3trgqUpEi7KCs0-dn80xiLkQ2tt44-WAN9LM&_nc_zt=14&_nc_ht=scontent-mia5-1.xx&_nc_gid=ZAqK7qt4g19wG58BRjF5qQ&_nc_ss=7b2a8&oh=00_AQE3BnCt8UQm4efPLCl0BFjw08-TrdzNHu5ZaP5bu0YUQw&oe=6A9625EF
+
+[RESUMEN]
+La convergencia entre el formato físico y los ecosistemas digitales multifraja —impulsada por iniciativas de interoperabilidad y programas de conversión como el sistema disc-to-digital de Microsoft y la arquitectura cruzada de Xbox Play Anywhere— redefine los paradigmas tradicionales de la propiedad intelectual en los videojuegos.

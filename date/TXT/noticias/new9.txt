@@ -1,0 +1,15 @@
+[TITULO]
+LA BATERÍA DEJARÁ DE SER UN PROBLEMA! 🤯 Nokia presenta un celular que resiste hasta 40 días encendido sin tocar el cargador
+
+[FECHA]
+27 Agosto 2026
+
+[CATEGORIA]
+Hardware
+
+[IMAGEN]
+https://cdn-3.expansion.mx/dims4/default/5115b30/2147483647/strip/true/crop/351x351+137+0/resize/1200x1200!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2013%2F02%2F26%2Fnokia-105-celular-smartphone-20-dolares.jpg
+
+[RESUMEN]
+En el actual mercado dominado por smartphones que difícilmente sobreviven un día completo de uso intenso, HMD (la compañía detrás de los teléfonos Nokia) ha decidido romper el esquema con el Nokia 300 Charge. Se trata de un celular clásico (feature phone) optimizado para ofrecer una autonomía casi ilimitada y capacidad para funcionar como batería portátil.
+El dispositivo combina la nostalgia de los teclados físicos con estándares modernos como la conectividad USB-C.

@@ -1,0 +1,20 @@
+[TITULO]
+🚨Arrestan a hackers que infectaron miles de programas con un ataque a la cadena de suministro 
+
+[FECHA]
+27 Agosto 2026
+
+[CATEGORIA]
+CiberSecurity
+
+[IMAGEN]
+https://scontent-mia5-1.xx.fbcdn.net/v/t39.99422-6/787044931_1016058608076921_4435076075250001968_n.png?stp=dst-jpg_tt6&cstp=mx1000x563&ctp=s1000x563&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=4oYAD-9VIsoQ7kNvwFQyJ35&_nc_oc=AdpteLCzQobT7wPCQk3OOzz-5SVRGd9x574yEsyswS-JAKTIDJpTdkj_deL1GL4iRGg&_nc_zt=14&_nc_ht=scontent-mia5-1.xx&_nc_gid=kCzT1jnYQ3HWiXF6q4NFvQ&_nc_ss=7b2a8&oh=00_AQHpH8h1qJlSCyQ7XEeYsR3zrtnEI9tpYb-M37QJa1cnDw&oe=6A962907
+
+[RESUMEN]
+La Policía Federal Australiana y el FBI han asestado un duro golpe al arrestar a dos integrantes clave del peligroso grupo cibercriminal TeamPCP.
+Los acusados ejecutaron uno de los ataques a la cadena de suministro de software más destructivos de los últimos años: envenenaron herramientas de código abierto muy populares (como LiteLLM, Trivy y Checkmarx KICS) para colar puertas traseras (backdoors) y espiar a las empresas que las utilizaban para programar.
+Te comparto todos los detalles a continuación:
+1️⃣ Ataque desde las fuentes del software: El grupo robaba credenciales de desarrolladores para publicar versiones infectadas directamente en repositorios oficiales como GitHub Actions, Docker Hub, PyPI y npm, logrando que las propias empresas descargaran el malware creyendo que era una actualización legítima.
+2️⃣ El eslabón débil de la IA: Al comprometer la herramienta LiteLLM (usada para administrar claves API de inteligencia artificial), los hackers lograron interceptar credenciales y accesos críticos a modelos de lenguaje en cientos de corporaciones.
+3️⃣ Víctimas y robo masivo: El ataque a esta cadena de suministro afectó a más de 1.000 organizaciones globales, permitió la extracción de 300 GB de datos confidenciales y el robo de más de 500.000 credenciales de acceso.
+4️⃣ Prisión y penas récord: Los dos detenidos en Australia se enfrentan a 14 cargos penales por acceso no autorizado, sabotaje de datos y lavado de dinero en criptomonedas, con penas que podrían sumar hasta 20 años de cárcel por cada cargo. Ver menos
